@@ -1,3 +1,19 @@
+@ ======================================================== 
+
+@ Program: Fibonacci Sequence 
+
+  
+
+@ Description: This program generates the results of a given n in the 
+
+@                        Fibonacci Sequence.		 
+
+  
+
+@ Names: Tobias, Alberto, Jordi  
+
+@ ======================================================== 
+
 .global _start
 _start:
     mov r1, #7			@ set index parameter of Fibb sequence as F(7)
